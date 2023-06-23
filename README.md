@@ -1,2 +1,2 @@
 # django_nuxt_project
-fullstack 
+Fullstack разработка. Backend(django-python), frontend(NuxtJS)
